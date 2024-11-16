@@ -2,5 +2,9 @@
 
 int main(){
     printf("test1\n");
+    printf("test1\n");
+    printf("test1\n");
+    printf("test1\n");
+    printf("test1\n");
     return 0;
 }
